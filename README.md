@@ -12,6 +12,7 @@ Console Application (C) for Real-Time Environmental Data Logging via RPi4 and th
   - Humidity Readings/Alarms
   - Air Pressure Readings/Alarms
   - Simulated Control of Heater/Humidifier 
+  - Data Logging for All Readings
 
 ### Contribution / Sharing
 
