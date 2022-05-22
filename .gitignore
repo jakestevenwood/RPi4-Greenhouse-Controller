@@ -10,6 +10,7 @@
 *.dat
 ghc.layout
 ghc
+ghc.depend
 
 # Prerequisites
 *.d
