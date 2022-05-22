@@ -1,6 +1,6 @@
 # Raspberry Pi 4 Greenhouse Controller
 
-**Author: ** Jakob Wood
+**Author:** Jakob Wood
 
 ## Features and Usage
 
