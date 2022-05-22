@@ -1,5 +1,7 @@
 # Raspberry Pi 4 Greenhouse Controller
 
+Console Application (C) for Real-Time Environmental Data Logging via RPi4 and the Sense Hat Board
+
 **Author:** Jakob Wood
 
 ## Features and Usage
