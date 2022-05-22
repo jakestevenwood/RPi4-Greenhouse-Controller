@@ -16,7 +16,7 @@ const char alarmnames[NALARMS][ALARMNMSZ] = {"No Alarms","High Temperature","Low
 */
 void GhDisplayHeader(const char * sname)
 {
-	fprintf(stdout,"%s's CENG153 Greenhouse Controller\n",sname);
+	fprintf(stdout,"%s's RPi4 Greenhouse Controller\n",sname);
 }
 
 /** @brief Retrieves Gh Serial Number
